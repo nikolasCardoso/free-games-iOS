@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  FreeGames
+
+  Created by Nikolas Cardoso de Oliveira on 02/08/22.
+  
+*/
+
+"freeToGame.baseUrl" = "https://www.freetogame.com/api";
+
+"games" = "Games";
+"games.title" = "Trending free games";
+
+"platform.pc.icon" = "desktopcomputer";
+"platform.webBrowser.icon" = "menubar.dock.rectangle";
+"platform.both.icon" = "ellipsis.rectangle";
+"platform.pc.name" = "Windows";
+"platform.pc.name.variant" = "PC (Windows)";
+"platform.webBrowser.name" = "Web Browser";
+"platform.both.name" = "Windows and Web Browser";
+
+"playLater" = "Play Later";
+"playLater.playNow.button" = "PLAY NOW";
+"playLater.additionalInfo.title" = "Additional Information";
+"playLater.minSysReq.title" = "Minimum System Requirements";
+"playLater.developer" = "Developer";
+"playLater.publisher" = "Publisher";
+"playLater.platform" = "Platform";
+"playLater.genre" = "Genre";
+"playLater.releaseDate" = "Release Date";
+"playLater.os" = "OS";
+"playLater.processor" = "Processor";
+"playLater.storage" = "Storage";
+"playLater.memory" = "Memory";
+"playLater.graphics" = "Graphics";
+
+"profile" = "Profile";
+"profile.edit" = "Edit profile";
+"profile.username.default" = "Guest";
+"profile.email.default" = "guest@email.com";
+"profile.save" = "Save profile";
+"profile.name.label" = "Name";
+"profile.email.label" = "Email";
+"profile.changePhoto" = "Change profile photo";
+
+"games.icon"= "gamecontroller";
+"image.placeholder.icon"= "photo";
+"playLater.playNow.icon" = "rectangle.portrait.and.arrow.right.fill";
+"playLater.icon"= "clock";
+"playLater.icon.filled"= "clock.fill";
+"playLater.remove.icon" = "minus.circle.fill";
+"profile.icon" = "person";
+
+"error.title" = "Oopss!";
+"error.message" = "Something went wrong, please try again later";
